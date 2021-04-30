@@ -1,0 +1,19 @@
+/x[name='']|/military/district/staff[substring(selfDestructCode,1,2) = 'CT']|/x[name='']
+
+/x[name='']|/military/district/staff[selfDestructCode]|/x[name='']
+
+/military/district/staff[name='']|count(/military/district/staff)|x/['']
+
+# Find the number of selfDestructCode nodes (2)
+/x[name='']|(/military/district/staff/selfDestructCode)[1]|/x[name='']
+
+# Find the number of the selfDestructCode nodes
+/x[name='']|(/military/district/staff/selfDestructCode)[1]|/x[name='']
+
+# Find the length of the selfDestructCode strings
+# [1] = 21 chars
+# [2] = 15 chars
+/x[name='']|(/military/district/staff/selfDestructCode)[2][string-length(text()) > 1]|x[name='']
+
+# Find the N'th char in the selfDestructCode string
+/x[name='']|(/military/district/staff/selfDestructCode)[1][substring(text(), 1, 1) = 'C']

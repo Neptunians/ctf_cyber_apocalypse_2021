@@ -1,0 +1,6264 @@
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: ' '
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '!'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '"'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '#'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '$'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '%'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '&'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '('
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: ')'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '*'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '+'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: ','
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '-'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '.'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '/'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '0'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '1'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '2'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '3'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '4'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '5'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '6'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '7'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '8'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '9'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: ':'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: ';'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '<'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '='
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '>'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '?'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: '@'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: 'A'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: 'B'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: 'C'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: 'D'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: 'E'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: 'F'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: 'G'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: 'H'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: 'I'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: 'J'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: 'K'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: 'L'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: 'M'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: 'N'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: 'O'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: 'P'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: 'Q'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: 'R'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: 'S'
+.
+Current Flag: CHTB{
+item: '1'; pos: '6'; ch: 'T'
+CURRENT FLAG: CHTB{T
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: ' '
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '!'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '"'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '#'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '$'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '%'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '&'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '('
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: ')'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '*'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '+'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: ','
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '-'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '.'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '/'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '0'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '1'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '2'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '3'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '4'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '5'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '6'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '7'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '8'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '9'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: ':'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: ';'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '<'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '='
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '>'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '?'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '@'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'A'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'B'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'C'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'D'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'E'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'F'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'G'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'H'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'I'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'J'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'K'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'L'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'M'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'N'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'O'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'P'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'Q'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'R'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'S'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'T'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'U'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'V'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'W'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'X'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'Y'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'Z'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '['
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '\'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: ']'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '^'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '_'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: '`'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'a'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'b'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'c'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'd'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'e'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'f'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'g'
+.
+Current Flag: CHTB{T
+item: '1'; pos: '7'; ch: 'h'
+CURRENT FLAG: CHTB{Th
+Current Flag: CHTB{Th
+item: '1'; pos: '8'; ch: ' '
+.
+Current Flag: CHTB{Th
+item: '1'; pos: '8'; ch: '!'
+.
+Current Flag: CHTB{Th
+item: '1'; pos: '8'; ch: '"'
+.
+Current Flag: CHTB{Th
+item: '1'; pos: '8'; ch: '#'
+.
+Current Flag: CHTB{Th
+item: '1'; pos: '8'; ch: '$'
+.
+Current Flag: CHTB{Th
+item: '1'; pos: '8'; ch: '%'
+.
+Current Flag: CHTB{Th
+item: '1'; pos: '8'; ch: '&'
+.
+Current Flag: CHTB{Th
+item: '1'; pos: '8'; ch: '('
+.
+Current Flag: CHTB{Th
+item: '1'; pos: '8'; ch: ')'
+.
+Current Flag: CHTB{Th
+item: '1'; pos: '8'; ch: '*'
+.
+Current Flag: CHTB{Th
+item: '1'; pos: '8'; ch: '+'
+.
+Current Flag: CHTB{Th
+item: '1'; pos: '8'; ch: ','
+.
+Current Flag: CHTB{Th
+item: '1'; pos: '8'; ch: '-'
+.
+Current Flag: CHTB{Th
+item: '1'; pos: '8'; ch: '.'
+.
+Current Flag: CHTB{Th
+item: '1'; pos: '8'; ch: '/'
+.
+Current Flag: CHTB{Th
+item: '1'; pos: '8'; ch: '0'
+.
+Current Flag: CHTB{Th
+item: '1'; pos: '8'; ch: '1'
+.
+Current Flag: CHTB{Th
+item: '1'; pos: '8'; ch: '2'
+.
+Current Flag: CHTB{Th
+item: '1'; pos: '8'; ch: '3'
+CURRENT FLAG: CHTB{Th3
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: ' '
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '!'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '"'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '#'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '$'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '%'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '&'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '('
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: ')'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '*'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '+'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: ','
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '-'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '.'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '/'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '0'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '1'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '2'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '3'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '4'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '5'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '6'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '7'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '8'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '9'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: ':'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: ';'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '<'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '='
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '>'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '?'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '@'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'A'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'B'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'C'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'D'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'E'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'F'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'G'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'H'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'I'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'J'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'K'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'L'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'M'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'N'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'O'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'P'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'Q'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'R'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'S'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'T'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'U'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'V'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'W'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'X'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'Y'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: 'Z'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '['
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '\'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: ']'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '^'
+.
+Current Flag: CHTB{Th3
+item: '1'; pos: '9'; ch: '_'
+CURRENT FLAG: CHTB{Th3_
+Current Flag: CHTB{Th3_
+item: '1'; pos: '10'; ch: ' '
+.
+Current Flag: CHTB{Th3_
+item: '1'; pos: '10'; ch: '!'
+.
+Current Flag: CHTB{Th3_
+item: '1'; pos: '10'; ch: '"'
+.
+Current Flag: CHTB{Th3_
+item: '1'; pos: '10'; ch: '#'
+.
+Current Flag: CHTB{Th3_
+item: '1'; pos: '10'; ch: '$'
+.
+Current Flag: CHTB{Th3_
+item: '1'; pos: '10'; ch: '%'
+.
+Current Flag: CHTB{Th3_
+item: '1'; pos: '10'; ch: '&'
+.
+Current Flag: CHTB{Th3_
+item: '1'; pos: '10'; ch: '('
+.
+Current Flag: CHTB{Th3_
+item: '1'; pos: '10'; ch: ')'
+.
+Current Flag: CHTB{Th3_
+item: '1'; pos: '10'; ch: '*'
+.
+Current Flag: CHTB{Th3_
+item: '1'; pos: '10'; ch: '+'
+.
+Current Flag: CHTB{Th3_
+item: '1'; pos: '10'; ch: ','
+.
+Current Flag: CHTB{Th3_
+item: '1'; pos: '10'; ch: '-'
+.
+Current Flag: CHTB{Th3_
+item: '1'; pos: '10'; ch: '.'
+.
+Current Flag: CHTB{Th3_
+item: '1'; pos: '10'; ch: '/'
+.
+Current Flag: CHTB{Th3_
+item: '1'; pos: '10'; ch: '0'
+.
+Current Flag: CHTB{Th3_
+item: '1'; pos: '10'; ch: '1'
+.
+Current Flag: CHTB{Th3_
+item: '1'; pos: '10'; ch: '2'
+.
+Current Flag: CHTB{Th3_
+item: '1'; pos: '10'; ch: '3'
+CURRENT FLAG: CHTB{Th3_3
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: ' '
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '!'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '"'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '#'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '$'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '%'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '&'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '('
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: ')'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '*'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '+'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: ','
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '-'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '.'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '/'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '0'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '1'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '2'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '3'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '4'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '5'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '6'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '7'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '8'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '9'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: ':'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: ';'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '<'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '='
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '>'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '?'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '@'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'A'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'B'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'C'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'D'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'E'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'F'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'G'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'H'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'I'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'J'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'K'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'L'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'M'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'N'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'O'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'P'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'Q'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'R'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'S'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'T'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'U'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'V'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'W'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'X'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'Y'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'Z'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '['
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '\'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: ']'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '^'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '_'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: '`'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'a'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'b'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'c'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'd'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'e'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'f'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'g'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'h'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'i'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'j'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'k'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'l'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'm'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'n'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'o'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'p'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'q'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'r'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 's'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 't'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'u'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'v'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'w'
+.
+Current Flag: CHTB{Th3_3
+item: '1'; pos: '11'; ch: 'x'
+CURRENT FLAG: CHTB{Th3_3x
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: ' '
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '!'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '"'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '#'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '$'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '%'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '&'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '('
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: ')'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '*'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '+'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: ','
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '-'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '.'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '/'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '0'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '1'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '2'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '3'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '4'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '5'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '6'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '7'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '8'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '9'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: ':'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: ';'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '<'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '='
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '>'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '?'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: '@'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: 'A'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: 'B'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: 'C'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: 'D'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: 'E'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: 'F'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: 'G'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: 'H'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: 'I'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: 'J'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: 'K'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: 'L'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: 'M'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: 'N'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: 'O'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: 'P'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: 'Q'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: 'R'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: 'S'
+.
+Current Flag: CHTB{Th3_3x
+item: '1'; pos: '12'; ch: 'T'
+CURRENT FLAG: CHTB{Th3_3xT
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '$'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '%'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '&'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '('
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: ')'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '*'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '+'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: ','
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '-'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '.'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '/'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '0'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '1'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '2'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '3'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '4'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '5'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '6'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '7'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '8'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '9'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: ':'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: ';'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '<'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '='
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '>'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '?'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '@'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'A'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'B'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'C'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'D'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'E'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'F'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'G'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'H'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'I'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'J'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'K'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'L'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'M'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'N'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'O'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'P'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'Q'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'R'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'S'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'T'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'U'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'V'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'W'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'X'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'Y'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'Z'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '['
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '\'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: ']'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '^'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '_'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: '`'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'a'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'b'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'c'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'd'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'e'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'f'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'g'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'h'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'i'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'j'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'k'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'l'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'm'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'n'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'o'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'p'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'q'
+.
+Current Flag: CHTB{Th3_3xT
+item: '1'; pos: '13'; ch: 'r'
+CURRENT FLAG: CHTB{Th3_3xTr
+Current Flag: CHTB{Th3_3xTr
+item: '1'; pos: '14'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr
+item: '1'; pos: '14'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xTr
+item: '1'; pos: '14'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xTr
+item: '1'; pos: '14'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xTr
+item: '1'; pos: '14'; ch: '$'
+.
+Current Flag: CHTB{Th3_3xTr
+item: '1'; pos: '14'; ch: '%'
+.
+Current Flag: CHTB{Th3_3xTr
+item: '1'; pos: '14'; ch: '&'
+.
+Current Flag: CHTB{Th3_3xTr
+item: '1'; pos: '14'; ch: '('
+.
+Current Flag: CHTB{Th3_3xTr
+item: '1'; pos: '14'; ch: ')'
+.
+Current Flag: CHTB{Th3_3xTr
+item: '1'; pos: '14'; ch: '*'
+.
+Current Flag: CHTB{Th3_3xTr
+item: '1'; pos: '14'; ch: '+'
+.
+Current Flag: CHTB{Th3_3xTr
+item: '1'; pos: '14'; ch: ','
+.
+Current Flag: CHTB{Th3_3xTr
+item: '1'; pos: '14'; ch: '-'
+.
+Current Flag: CHTB{Th3_3xTr
+item: '1'; pos: '14'; ch: '.'
+.
+Current Flag: CHTB{Th3_3xTr
+item: '1'; pos: '14'; ch: '/'
+.
+Current Flag: CHTB{Th3_3xTr
+item: '1'; pos: '14'; ch: '0'
+.
+Current Flag: CHTB{Th3_3xTr
+item: '1'; pos: '14'; ch: '1'
+.
+Current Flag: CHTB{Th3_3xTr
+item: '1'; pos: '14'; ch: '2'
+.
+Current Flag: CHTB{Th3_3xTr
+item: '1'; pos: '14'; ch: '3'
+.
+Current Flag: CHTB{Th3_3xTr
+item: '1'; pos: '14'; ch: '4'
+CURRENT FLAG: CHTB{Th3_3xTr4
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '$'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '%'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '&'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '('
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: ')'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '*'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '+'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: ','
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '-'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '.'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '/'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '0'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '1'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '2'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '3'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '4'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '5'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '6'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '7'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '8'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '9'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: ':'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: ';'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '<'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '='
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '>'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '?'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '@'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'A'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'B'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'C'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'D'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'E'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'F'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'G'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'H'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'I'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'J'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'K'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'L'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'M'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'N'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'O'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'P'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'Q'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'R'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'S'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'T'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'U'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'V'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'W'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'X'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'Y'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: 'Z'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '['
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '\'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: ']'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '^'
+.
+Current Flag: CHTB{Th3_3xTr4
+item: '1'; pos: '15'; ch: '_'
+CURRENT FLAG: CHTB{Th3_3xTr4_
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '$'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '%'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '&'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '('
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: ')'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '*'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '+'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: ','
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '-'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '.'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '/'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '0'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '1'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '2'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '3'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '4'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '5'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '6'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '7'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '8'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '9'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: ':'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: ';'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '<'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '='
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '>'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '?'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '@'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'A'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'B'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'C'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'D'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'E'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'F'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'G'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'H'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'I'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'J'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'K'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'L'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'M'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'N'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'O'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'P'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'Q'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'R'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'S'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'T'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'U'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'V'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'W'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'X'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'Y'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'Z'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '['
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '\'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: ']'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '^'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '_'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: '`'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'a'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'b'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'c'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'd'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'e'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'f'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'g'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'h'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'i'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'j'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'k'
+.
+Current Flag: CHTB{Th3_3xTr4_
+item: '1'; pos: '16'; ch: 'l'
+CURRENT FLAG: CHTB{Th3_3xTr4_l
+Current Flag: CHTB{Th3_3xTr4_l
+item: '1'; pos: '17'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4_l
+item: '1'; pos: '17'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xTr4_l
+item: '1'; pos: '17'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xTr4_l
+item: '1'; pos: '17'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xTr4_l
+item: '1'; pos: '17'; ch: '$'
+.
+Current Flag: CHTB{Th3_3xTr4_l
+item: '1'; pos: '17'; ch: '%'
+.
+Current Flag: CHTB{Th3_3xTr4_l
+item: '1'; pos: '17'; ch: '&'
+.
+Current Flag: CHTB{Th3_3xTr4_l
+item: '1'; pos: '17'; ch: '('
+.
+Current Flag: CHTB{Th3_3xTr4_l
+item: '1'; pos: '17'; ch: ')'
+.
+Current Flag: CHTB{Th3_3xTr4_l
+item: '1'; pos: '17'; ch: '*'
+.
+Current Flag: CHTB{Th3_3xTr4_l
+item: '1'; pos: '17'; ch: '+'
+.
+Current Flag: CHTB{Th3_3xTr4_l
+item: '1'; pos: '17'; ch: ','
+.
+Current Flag: CHTB{Th3_3xTr4_l
+item: '1'; pos: '17'; ch: '-'
+.
+Current Flag: CHTB{Th3_3xTr4_l
+item: '1'; pos: '17'; ch: '.'
+.
+Current Flag: CHTB{Th3_3xTr4_l
+item: '1'; pos: '17'; ch: '/'
+.
+Current Flag: CHTB{Th3_3xTr4_l
+item: '1'; pos: '17'; ch: '0'
+.
+Current Flag: CHTB{Th3_3xTr4_l
+item: '1'; pos: '17'; ch: '1'
+.
+Current Flag: CHTB{Th3_3xTr4_l
+item: '1'; pos: '17'; ch: '2'
+.
+Current Flag: CHTB{Th3_3xTr4_l
+item: '1'; pos: '17'; ch: '3'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '$'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '%'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '&'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '('
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: ')'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '*'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '+'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: ','
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '-'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '.'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '/'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '0'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '1'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '2'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '3'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '4'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '5'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '6'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '7'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '8'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '9'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: ':'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: ';'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '<'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '='
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '>'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '?'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '@'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'A'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'B'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'C'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'D'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'E'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'F'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'G'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'H'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'I'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'J'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'K'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'L'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'M'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'N'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'O'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'P'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'Q'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'R'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'S'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'T'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'U'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'V'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'W'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'X'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'Y'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'Z'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '['
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '\'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: ']'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '^'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '_'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: '`'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'a'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'b'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'c'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'd'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'e'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'f'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'g'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'h'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'i'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'j'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'k'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'l'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'm'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'n'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'o'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'p'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'q'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'r'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 's'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 't'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'u'
+.
+Current Flag: CHTB{Th3_3xTr4_l3
+item: '1'; pos: '18'; ch: 'v'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: '1'; pos: '19'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: '1'; pos: '19'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: '1'; pos: '19'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: '1'; pos: '19'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: '1'; pos: '19'; ch: '$'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: '1'; pos: '19'; ch: '%'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: '1'; pos: '19'; ch: '&'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: '1'; pos: '19'; ch: '('
+.
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: '1'; pos: '19'; ch: ')'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: '1'; pos: '19'; ch: '*'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: '1'; pos: '19'; ch: '+'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: '1'; pos: '19'; ch: ','
+.
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: '1'; pos: '19'; ch: '-'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: '1'; pos: '19'; ch: '.'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: '1'; pos: '19'; ch: '/'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: '1'; pos: '19'; ch: '0'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: '1'; pos: '19'; ch: '1'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: '1'; pos: '19'; ch: '2'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: '1'; pos: '19'; ch: '3'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '$'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '%'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '&'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '('
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: ')'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '*'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '+'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: ','
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '-'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '.'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '/'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '0'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '1'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '2'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '3'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '4'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '5'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '6'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '7'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '8'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '9'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: ':'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: ';'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '<'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '='
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '>'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '?'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '@'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'A'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'B'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'C'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'D'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'E'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'F'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'G'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'H'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'I'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'J'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'K'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'L'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'M'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'N'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'O'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'P'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'Q'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'R'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'S'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'T'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'U'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'V'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'W'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'X'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'Y'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'Z'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '['
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '\'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: ']'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '^'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '_'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: '`'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'a'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'b'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'c'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'd'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'e'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'f'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'g'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'h'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'i'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'j'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'k'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: '1'; pos: '20'; ch: 'l'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3l
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '$'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '%'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '&'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '('
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: ')'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '*'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '+'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: ','
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '-'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '.'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '/'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '0'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '1'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '2'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '3'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '4'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '5'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '6'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '7'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '8'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '9'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: ':'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: ';'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '<'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '='
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '>'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '?'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '@'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'A'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'B'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'C'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'D'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'E'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'F'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'G'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'H'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'I'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'J'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'K'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'L'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'M'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'N'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'O'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'P'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'Q'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'R'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'S'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'T'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'U'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'V'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'W'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'X'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'Y'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: 'Z'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '['
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '\'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: ']'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '^'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: '1'; pos: '21'; ch: '_'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3l_
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '$'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '%'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '&'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '('
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ')'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '*'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '+'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ','
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '-'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '.'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '/'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '0'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '1'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '2'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '3'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '4'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '5'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '6'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '7'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '8'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '9'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ':'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ';'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '<'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '='
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '>'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '?'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '@'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'A'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'B'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'C'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'D'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'E'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'F'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'G'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'H'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'I'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'J'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'K'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'L'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'M'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'N'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'O'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'P'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Q'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'R'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'S'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'T'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'U'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'V'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'W'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'X'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Y'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Z'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '['
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '\'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ']'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '^'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '_'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '`'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'a'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'b'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'c'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'd'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'e'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'f'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'g'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'h'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'i'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'j'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'k'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'l'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'm'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'n'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'o'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'p'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'q'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'r'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 's'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 't'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'u'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'v'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'w'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'x'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'y'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'z'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '{'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '|'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '}'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '~'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '¡'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '¢'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '£'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '¤'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '¥'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '¦'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '§'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '¨'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '©'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'ª'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '«'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '¬'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '­'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '®'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '¯'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '°'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '±'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '²'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '³'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '´'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'µ'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '¶'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '·'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '¸'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '¹'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'º'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '»'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '¼'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '½'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '¾'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '¿'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'À'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Á'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Â'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Ã'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Ä'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Å'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Æ'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Ç'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'È'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'É'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Ê'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Ë'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Ì'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Í'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Î'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Ï'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Ð'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Ñ'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Ò'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Ó'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Ô'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Õ'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Ö'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '×'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Ø'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Ù'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Ú'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Û'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Ü'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Ý'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'Þ'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'ß'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'à'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'á'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'â'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'ã'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'ä'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'å'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'æ'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'ç'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'è'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'é'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'ê'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'ë'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'ì'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'í'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'î'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'ï'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'ð'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'ñ'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'ò'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'ó'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'ô'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'õ'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'ö'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: '÷'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'ø'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'ù'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'ú'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'û'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'ü'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'ý'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'þ'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '1'; pos: '22'; ch: 'ÿ'
+.
+Search Finished!
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '2'; pos: '1'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '2'; pos: '1'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '2'; pos: '1'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '2'; pos: '1'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '2'; pos: '1'; ch: '$'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '2'; pos: '1'; ch: '%'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '2'; pos: '1'; ch: '&'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '2'; pos: '1'; ch: '('
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '2'; pos: '1'; ch: ')'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '2'; pos: '1'; ch: '*'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '2'; pos: '1'; ch: '+'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '2'; pos: '1'; ch: ','
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '2'; pos: '1'; ch: '-'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '2'; pos: '1'; ch: '.'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '2'; pos: '1'; ch: '/'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '2'; pos: '1'; ch: '0'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '2'; pos: '1'; ch: '1'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '2'; pos: '1'; ch: '2'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '2'; pos: '1'; ch: '3'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: '2'; pos: '1'; ch: '4'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3l_4
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '$'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '%'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '&'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '('
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: ')'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '*'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '+'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: ','
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '-'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '.'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '/'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '0'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '1'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '2'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '3'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '4'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '5'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '6'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '7'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '8'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '9'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: ':'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: ';'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '<'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '='
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '>'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '?'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: '@'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: 'A'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: 'B'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: '2'; pos: '2'; ch: 'C'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3l_4C
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '$'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '%'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '&'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '('
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: ')'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '*'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '+'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: ','
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '-'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '.'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '/'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '0'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '1'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '2'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '3'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '4'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '5'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '6'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '7'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '8'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '9'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: ':'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: ';'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '<'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '='
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '>'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '?'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '@'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'A'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'B'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'C'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'D'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'E'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'F'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'G'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'H'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'I'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'J'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'K'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'L'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'M'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'N'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'O'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'P'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'Q'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'R'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'S'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'T'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'U'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'V'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'W'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'X'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'Y'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'Z'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '['
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '\'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: ']'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '^'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '_'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: '`'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'a'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'b'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: '2'; pos: '3'; ch: 'c'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3l_4Cc
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: '2'; pos: '4'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: '2'; pos: '4'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: '2'; pos: '4'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: '2'; pos: '4'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: '2'; pos: '4'; ch: '$'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: '2'; pos: '4'; ch: '%'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: '2'; pos: '4'; ch: '&'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: '2'; pos: '4'; ch: '('
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: '2'; pos: '4'; ch: ')'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: '2'; pos: '4'; ch: '*'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: '2'; pos: '4'; ch: '+'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: '2'; pos: '4'; ch: ','
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: '2'; pos: '4'; ch: '-'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: '2'; pos: '4'; ch: '.'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: '2'; pos: '4'; ch: '/'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: '2'; pos: '4'; ch: '0'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: '2'; pos: '4'; ch: '1'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: '2'; pos: '4'; ch: '2'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: '2'; pos: '4'; ch: '3'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3l_4Cc3
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '$'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '%'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '&'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '('
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: ')'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '*'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '+'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: ','
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '-'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '.'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '/'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '0'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '1'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '2'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '3'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '4'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '5'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '6'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '7'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '8'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '9'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: ':'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: ';'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '<'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '='
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '>'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '?'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '@'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'A'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'B'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'C'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'D'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'E'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'F'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'G'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'H'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'I'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'J'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'K'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'L'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'M'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'N'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'O'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'P'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'Q'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'R'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'S'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'T'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'U'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'V'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'W'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'X'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'Y'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'Z'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '['
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '\'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: ']'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '^'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '_'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: '`'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'a'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'b'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'c'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'd'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'e'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'f'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'g'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'h'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'i'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'j'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'k'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'l'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'm'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'n'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'o'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'p'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'q'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 'r'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: '2'; pos: '5'; ch: 's'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3l_4Cc3s
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s
+item: '2'; pos: '6'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s
+item: '2'; pos: '6'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s
+item: '2'; pos: '6'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s
+item: '2'; pos: '6'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s
+item: '2'; pos: '6'; ch: '$'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '$'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '%'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '&'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '('
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: ')'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '*'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '+'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: ','
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '-'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '.'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '/'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '0'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '1'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '2'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '3'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '4'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '5'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '6'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '7'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '8'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '9'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: ':'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: ';'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '<'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '='
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '>'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '?'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '@'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'A'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'B'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'C'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'D'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'E'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'F'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'G'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'H'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'I'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'J'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'K'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'L'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'M'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'N'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'O'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'P'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'Q'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'R'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'S'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'T'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'U'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'V'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'W'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'X'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'Y'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: 'Z'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '['
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '\'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: ']'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '^'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: '2'; pos: '7'; ch: '_'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '$'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '%'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '&'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '('
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: ')'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '*'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '+'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: ','
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '-'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '.'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '/'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '0'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '1'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '2'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '3'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '4'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '5'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '6'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '7'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '8'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '9'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: ':'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: ';'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '<'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '='
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '>'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '?'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '@'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'A'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'B'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'C'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'D'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'E'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'F'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'G'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'H'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'I'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'J'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'K'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'L'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'M'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'N'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'O'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'P'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'Q'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'R'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'S'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'T'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'U'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'V'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'W'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'X'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'Y'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'Z'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '['
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '\'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: ']'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '^'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '_'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: '`'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'a'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'b'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_
+item: '2'; pos: '8'; ch: 'c'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c
+item: '2'; pos: '9'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c
+item: '2'; pos: '9'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c
+item: '2'; pos: '9'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c
+item: '2'; pos: '9'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c
+item: '2'; pos: '9'; ch: '$'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c
+item: '2'; pos: '9'; ch: '%'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c
+item: '2'; pos: '9'; ch: '&'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c
+item: '2'; pos: '9'; ch: '('
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c
+item: '2'; pos: '9'; ch: ')'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c
+item: '2'; pos: '9'; ch: '*'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c
+item: '2'; pos: '9'; ch: '+'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c
+item: '2'; pos: '9'; ch: ','
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c
+item: '2'; pos: '9'; ch: '-'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c
+item: '2'; pos: '9'; ch: '.'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c
+item: '2'; pos: '9'; ch: '/'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c
+item: '2'; pos: '9'; ch: '0'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '$'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '%'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '&'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '('
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: ')'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '*'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '+'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: ','
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '-'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '.'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '/'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '0'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '1'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '2'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '3'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '4'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '5'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '6'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '7'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '8'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '9'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: ':'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: ';'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '<'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '='
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '>'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '?'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '@'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'A'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'B'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'C'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'D'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'E'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'F'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'G'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'H'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'I'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'J'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'K'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'L'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'M'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'N'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'O'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'P'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'Q'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'R'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'S'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'T'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'U'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'V'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'W'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'X'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'Y'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'Z'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '['
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '\'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: ']'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '^'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '_'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: '`'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'a'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'b'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'c'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'd'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'e'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'f'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'g'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'h'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'i'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'j'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'k'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'l'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'm'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0
+item: '2'; pos: '10'; ch: 'n'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '$'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '%'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '&'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '('
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: ')'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '*'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '+'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: ','
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '-'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '.'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '/'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '0'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '1'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '2'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '3'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '4'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '5'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '6'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '7'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '8'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '9'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: ':'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: ';'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '<'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '='
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '>'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '?'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: '@'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: 'A'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: 'B'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: 'C'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: 'D'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: 'E'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: 'F'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: 'G'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: 'H'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: 'I'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: 'J'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: 'K'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: 'L'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: 'M'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: 'N'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: 'O'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: 'P'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: 'Q'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: 'R'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: 'S'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0n
+item: '2'; pos: '11'; ch: 'T'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '$'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '%'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '&'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '('
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: ')'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '*'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '+'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: ','
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '-'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '.'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '/'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '0'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '1'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '2'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '3'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '4'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '5'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '6'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '7'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '8'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '9'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: ':'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: ';'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '<'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '='
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '>'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '?'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '@'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'A'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'B'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'C'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'D'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'E'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'F'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'G'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'H'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'I'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'J'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'K'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'L'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'M'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'N'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'O'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'P'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'Q'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'R'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'S'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'T'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'U'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'V'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'W'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'X'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'Y'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'Z'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '['
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '\'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: ']'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '^'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '_'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: '`'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'a'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'b'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'c'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'd'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'e'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'f'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'g'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'h'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'i'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'j'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'k'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'l'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'm'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'n'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'o'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'p'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'q'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nT
+item: '2'; pos: '12'; ch: 'r'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr
+item: '2'; pos: '13'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr
+item: '2'; pos: '13'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr
+item: '2'; pos: '13'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr
+item: '2'; pos: '13'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr
+item: '2'; pos: '13'; ch: '$'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr
+item: '2'; pos: '13'; ch: '%'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr
+item: '2'; pos: '13'; ch: '&'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr
+item: '2'; pos: '13'; ch: '('
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr
+item: '2'; pos: '13'; ch: ')'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr
+item: '2'; pos: '13'; ch: '*'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr
+item: '2'; pos: '13'; ch: '+'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr
+item: '2'; pos: '13'; ch: ','
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr
+item: '2'; pos: '13'; ch: '-'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr
+item: '2'; pos: '13'; ch: '.'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr
+item: '2'; pos: '13'; ch: '/'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr
+item: '2'; pos: '13'; ch: '0'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '$'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '%'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '&'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '('
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: ')'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '*'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '+'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: ','
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '-'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '.'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '/'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '0'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '1'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '2'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '3'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '4'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '5'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '6'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '7'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '8'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '9'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: ':'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: ';'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '<'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '='
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '>'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '?'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '@'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'A'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'B'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'C'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'D'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'E'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'F'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'G'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'H'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'I'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'J'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'K'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'L'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'M'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'N'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'O'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'P'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'Q'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'R'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'S'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'T'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'U'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'V'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'W'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'X'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'Y'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'Z'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '['
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '\'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: ']'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '^'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '_'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: '`'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'a'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'b'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'c'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'd'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'e'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'f'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'g'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'h'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'i'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'j'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'k'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0
+item: '2'; pos: '14'; ch: 'l'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '$'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '%'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '&'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '('
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: ')'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '*'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '+'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: ','
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '-'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '.'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '/'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '0'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '1'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '2'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '3'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '4'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '5'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '6'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '7'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '8'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '9'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: ':'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: ';'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '<'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '='
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '>'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '?'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '@'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'A'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'B'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'C'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'D'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'E'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'F'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'G'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'H'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'I'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'J'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'K'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'L'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'M'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'N'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'O'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'P'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'Q'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'R'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'S'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'T'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'U'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'V'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'W'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'X'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'Y'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'Z'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '['
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '\'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: ']'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '^'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '_'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '`'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'a'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'b'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'c'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'd'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'e'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'f'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'g'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'h'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'i'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'j'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'k'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'l'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'm'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'n'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'o'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'p'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'q'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'r'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 's'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 't'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'u'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'v'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'w'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'x'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'y'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: 'z'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '{'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '|'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l
+item: '2'; pos: '15'; ch: '}'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '!'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '"'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '#'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '$'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '%'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '&'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '('
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ')'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '*'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '+'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ','
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '-'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '.'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '/'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '0'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '1'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '2'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '3'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '4'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '5'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '6'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '7'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '8'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '9'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ':'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ';'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '<'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '='
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '>'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '?'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '@'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'A'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'B'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'C'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'D'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'E'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'F'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'G'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'H'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'I'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'J'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'K'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'L'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'M'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'N'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'O'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'P'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Q'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'R'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'S'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'T'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'U'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'V'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'W'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'X'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Y'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Z'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '['
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '\'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ']'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '^'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '_'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '`'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'a'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'b'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'c'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'd'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'e'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'f'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'g'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'h'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'i'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'j'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'k'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'l'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'm'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'n'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'o'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'p'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'q'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'r'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 's'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 't'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'u'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'v'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'w'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'x'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'y'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'z'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '{'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '|'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '}'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '~'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ''
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: ' '
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '¡'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '¢'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '£'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '¤'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '¥'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '¦'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '§'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '¨'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '©'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'ª'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '«'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '¬'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '­'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '®'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '¯'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '°'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '±'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '²'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '³'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '´'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'µ'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '¶'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '·'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '¸'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '¹'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'º'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '»'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '¼'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '½'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '¾'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '¿'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'À'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Á'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Â'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Ã'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Ä'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Å'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Æ'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Ç'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'È'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'É'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Ê'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Ë'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Ì'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Í'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Î'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Ï'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Ð'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Ñ'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Ò'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Ó'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Ô'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Õ'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Ö'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '×'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Ø'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Ù'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Ú'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Û'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Ü'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Ý'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'Þ'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'ß'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'à'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'á'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'â'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'ã'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'ä'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'å'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'æ'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'ç'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'è'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'é'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'ê'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'ë'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'ì'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'í'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'î'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'ï'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'ð'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'ñ'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'ò'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'ó'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'ô'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'õ'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'ö'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: '÷'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'ø'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'ù'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'ú'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'û'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'ü'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'ý'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'þ'
+.
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}
+item: '2'; pos: '16'; ch: 'ÿ'
+.
+Search Finished!
+Final Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$_c0nTr0l}

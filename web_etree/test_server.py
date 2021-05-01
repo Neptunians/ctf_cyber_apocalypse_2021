@@ -1,10 +1,14 @@
-from flask import Flask, request
+from flask import Flask, request, render_template
 from lxml import etree
 
 app = Flask(__name__)
 
 f = open("military2.xml", "r")
 tree = etree.parse(f)
+
+@app.route("/", methods=["GET"])
+def index():
+    return render_template("index.html")
 
 @app.route("/api/search", methods=["POST"])
 def search():
@@ -18,5 +22,5 @@ def search():
  
     return {"failure": 1, "message": "This millitary staff member doesn't exist."}
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     app.run("0.0.0.0", port=1337, debug=True)

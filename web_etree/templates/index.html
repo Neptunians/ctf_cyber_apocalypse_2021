@@ -1,0 +1,44 @@
+<html>
+    <script>
+        function callSearch() {
+            event.preventDefault();
+
+            form = document.getElementById("searchForm");
+            name = form.fname.value;
+
+            bodyData = JSON.stringify(
+                {
+                    "search": name
+                }
+            );
+            
+            fetch("/api/search", 
+                {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: bodyData
+                }
+            )
+            .then((response) => response.text())
+            .then((text) => {
+                document.getElementById("resultado").innerHTML = text;
+            });
+        }
+
+        function clean() {
+            document.getElementById("resultado").innerText = "(Aguardando nova busca)";
+            event.preventDefault();
+        }
+    </script>
+    <body>
+        <form id="searchForm" action="">
+            <label for="fname">Busca</label><br>
+            <input type="text" id="fname" value="John Doe" style="width: 500px"><br><br>
+            <input id="submitButton" value="Efetuar Busca" type="submit" onclick="callSearch();">
+            <button onclick="clean();">Limpar</button>
+        </form>
+        <p id="resultado">(Aguardando nova busca)</p>
+    </body>
+</html>

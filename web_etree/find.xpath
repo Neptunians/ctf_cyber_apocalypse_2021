@@ -4,15 +4,10 @@
 # Testa se as 5 primeiras letras são 'CHTB{' (de 'CHTB{senha}')
 /x[name='']|/military/district/staff[substring(selfDestructCode,1,5) = 'CHTB{']|/x[name='']
 
-/x[name='']|/military/district/staff[selfDestructCode]|/x[name='']
-
-/military/district/staff[name='']|count(/military/district/staff)|x/['']
-
 # Find the number of selfDestructCode nodes (2)
 /x[name='']|(/military/district/staff/selfDestructCode)[1]|/x[name='']
-
-# Find the number of the selfDestructCode nodes
-/x[name='']|(/military/district/staff/selfDestructCode)[1]|/x[name='']
+/x[name='']|(/military/district/staff/selfDestructCode)[2]|/x[name='']
+/x[name='']|(/military/district/staff/selfDestructCode)[3]|/x[name='']
 
 # Find the length of the selfDestructCode strings
 # [1] = 21 chars

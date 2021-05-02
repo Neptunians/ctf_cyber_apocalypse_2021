@@ -1,0 +1,5524 @@
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: ' '
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '!'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '"'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '#'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '$'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '%'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '&'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '('
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: ')'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '*'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '+'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: ','
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '-'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '.'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '/'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '0'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '1'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '2'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '3'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '4'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '5'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '6'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '7'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '8'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '9'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: ':'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: ';'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '<'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '='
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '>'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '?'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: '@'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: 'A'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: 'B'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: 'C'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: 'D'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: 'E'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: 'F'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: 'G'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: 'H'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: 'I'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: 'J'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: 'K'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: 'L'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: 'M'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: 'N'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: 'O'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: 'P'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: 'Q'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: 'R'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: 'S'
+.
+---> item: 1
+Current Flag: CHTB{
+item: 1; pos: 6; ch: 'T'
+CURRENT FLAG: CHTB{T
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: ' '
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '!'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '"'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '#'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '$'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '%'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '&'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '('
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: ')'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '*'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '+'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: ','
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '-'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '.'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '/'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '0'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '1'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '2'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '3'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '4'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '5'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '6'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '7'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '8'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '9'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: ':'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: ';'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '<'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '='
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '>'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '?'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '@'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'A'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'B'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'C'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'D'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'E'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'F'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'G'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'H'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'I'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'J'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'K'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'L'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'M'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'N'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'O'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'P'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'Q'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'R'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'S'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'T'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'U'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'V'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'W'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'X'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'Y'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'Z'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '['
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '\'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: ']'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '^'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '_'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: '`'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'a'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'b'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'c'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'd'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'e'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'f'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'g'
+.
+---> item: 1
+Current Flag: CHTB{T
+item: 1; pos: 7; ch: 'h'
+CURRENT FLAG: CHTB{Th
+---> item: 1
+Current Flag: CHTB{Th
+item: 1; pos: 8; ch: ' '
+.
+---> item: 1
+Current Flag: CHTB{Th
+item: 1; pos: 8; ch: '!'
+.
+---> item: 1
+Current Flag: CHTB{Th
+item: 1; pos: 8; ch: '"'
+.
+---> item: 1
+Current Flag: CHTB{Th
+item: 1; pos: 8; ch: '#'
+.
+---> item: 1
+Current Flag: CHTB{Th
+item: 1; pos: 8; ch: '$'
+.
+---> item: 1
+Current Flag: CHTB{Th
+item: 1; pos: 8; ch: '%'
+.
+---> item: 1
+Current Flag: CHTB{Th
+item: 1; pos: 8; ch: '&'
+.
+---> item: 1
+Current Flag: CHTB{Th
+item: 1; pos: 8; ch: '('
+.
+---> item: 1
+Current Flag: CHTB{Th
+item: 1; pos: 8; ch: ')'
+.
+---> item: 1
+Current Flag: CHTB{Th
+item: 1; pos: 8; ch: '*'
+.
+---> item: 1
+Current Flag: CHTB{Th
+item: 1; pos: 8; ch: '+'
+.
+---> item: 1
+Current Flag: CHTB{Th
+item: 1; pos: 8; ch: ','
+.
+---> item: 1
+Current Flag: CHTB{Th
+item: 1; pos: 8; ch: '-'
+.
+---> item: 1
+Current Flag: CHTB{Th
+item: 1; pos: 8; ch: '.'
+.
+---> item: 1
+Current Flag: CHTB{Th
+item: 1; pos: 8; ch: '/'
+.
+---> item: 1
+Current Flag: CHTB{Th
+item: 1; pos: 8; ch: '0'
+.
+---> item: 1
+Current Flag: CHTB{Th
+item: 1; pos: 8; ch: '1'
+.
+---> item: 1
+Current Flag: CHTB{Th
+item: 1; pos: 8; ch: '2'
+.
+---> item: 1
+Current Flag: CHTB{Th
+item: 1; pos: 8; ch: '3'
+CURRENT FLAG: CHTB{Th3
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: ' '
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '!'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '"'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '#'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '$'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '%'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '&'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '('
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: ')'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '*'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '+'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: ','
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '-'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '.'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '/'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '0'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '1'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '2'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '3'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '4'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '5'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '6'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '7'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '8'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '9'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: ':'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: ';'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '<'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '='
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '>'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '?'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '@'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'A'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'B'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'C'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'D'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'E'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'F'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'G'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'H'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'I'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'J'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'K'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'L'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'M'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'N'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'O'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'P'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'Q'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'R'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'S'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'T'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'U'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'V'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'W'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'X'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'Y'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: 'Z'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '['
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '\'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: ']'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '^'
+.
+---> item: 1
+Current Flag: CHTB{Th3
+item: 1; pos: 9; ch: '_'
+CURRENT FLAG: CHTB{Th3_
+---> item: 1
+Current Flag: CHTB{Th3_
+item: 1; pos: 10; ch: ' '
+.
+---> item: 1
+Current Flag: CHTB{Th3_
+item: 1; pos: 10; ch: '!'
+.
+---> item: 1
+Current Flag: CHTB{Th3_
+item: 1; pos: 10; ch: '"'
+.
+---> item: 1
+Current Flag: CHTB{Th3_
+item: 1; pos: 10; ch: '#'
+.
+---> item: 1
+Current Flag: CHTB{Th3_
+item: 1; pos: 10; ch: '$'
+.
+---> item: 1
+Current Flag: CHTB{Th3_
+item: 1; pos: 10; ch: '%'
+.
+---> item: 1
+Current Flag: CHTB{Th3_
+item: 1; pos: 10; ch: '&'
+.
+---> item: 1
+Current Flag: CHTB{Th3_
+item: 1; pos: 10; ch: '('
+.
+---> item: 1
+Current Flag: CHTB{Th3_
+item: 1; pos: 10; ch: ')'
+.
+---> item: 1
+Current Flag: CHTB{Th3_
+item: 1; pos: 10; ch: '*'
+.
+---> item: 1
+Current Flag: CHTB{Th3_
+item: 1; pos: 10; ch: '+'
+.
+---> item: 1
+Current Flag: CHTB{Th3_
+item: 1; pos: 10; ch: ','
+.
+---> item: 1
+Current Flag: CHTB{Th3_
+item: 1; pos: 10; ch: '-'
+.
+---> item: 1
+Current Flag: CHTB{Th3_
+item: 1; pos: 10; ch: '.'
+.
+---> item: 1
+Current Flag: CHTB{Th3_
+item: 1; pos: 10; ch: '/'
+.
+---> item: 1
+Current Flag: CHTB{Th3_
+item: 1; pos: 10; ch: '0'
+.
+---> item: 1
+Current Flag: CHTB{Th3_
+item: 1; pos: 10; ch: '1'
+.
+---> item: 1
+Current Flag: CHTB{Th3_
+item: 1; pos: 10; ch: '2'
+.
+---> item: 1
+Current Flag: CHTB{Th3_
+item: 1; pos: 10; ch: '3'
+CURRENT FLAG: CHTB{Th3_3
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: ' '
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '!'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '"'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '#'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '$'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '%'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '&'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '('
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: ')'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '*'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '+'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: ','
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '-'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '.'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '/'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '0'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '1'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '2'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '3'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '4'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '5'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '6'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '7'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '8'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '9'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: ':'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: ';'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '<'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '='
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '>'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '?'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '@'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'A'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'B'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'C'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'D'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'E'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'F'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'G'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'H'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'I'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'J'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'K'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'L'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'M'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'N'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'O'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'P'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'Q'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'R'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'S'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'T'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'U'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'V'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'W'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'X'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'Y'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'Z'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '['
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '\'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: ']'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '^'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '_'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: '`'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'a'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'b'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'c'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'd'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'e'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'f'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'g'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'h'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'i'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'j'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'k'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'l'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'm'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'n'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'o'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'p'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'q'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'r'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 's'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 't'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'u'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'v'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'w'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3
+item: 1; pos: 11; ch: 'x'
+CURRENT FLAG: CHTB{Th3_3x
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: ' '
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '!'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '"'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '#'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '$'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '%'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '&'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '('
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: ')'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '*'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '+'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: ','
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '-'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '.'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '/'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '0'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '1'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '2'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '3'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '4'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '5'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '6'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '7'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '8'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '9'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: ':'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: ';'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '<'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '='
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '>'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '?'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: '@'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: 'A'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: 'B'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: 'C'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: 'D'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: 'E'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: 'F'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: 'G'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: 'H'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: 'I'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: 'J'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: 'K'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: 'L'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: 'M'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: 'N'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: 'O'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: 'P'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: 'Q'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: 'R'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: 'S'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3x
+item: 1; pos: 12; ch: 'T'
+CURRENT FLAG: CHTB{Th3_3xT
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: ' '
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '!'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '"'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '#'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '$'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '%'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '&'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '('
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: ')'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '*'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '+'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: ','
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '-'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '.'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '/'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '0'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '1'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '2'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '3'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '4'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '5'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '6'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '7'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '8'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '9'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: ':'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: ';'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '<'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '='
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '>'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '?'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '@'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'A'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'B'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'C'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'D'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'E'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'F'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'G'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'H'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'I'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'J'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'K'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'L'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'M'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'N'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'O'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'P'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'Q'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'R'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'S'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'T'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'U'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'V'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'W'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'X'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'Y'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'Z'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '['
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '\'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: ']'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '^'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '_'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: '`'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'a'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'b'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'c'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'd'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'e'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'f'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'g'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'h'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'i'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'j'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'k'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'l'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'm'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'n'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'o'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'p'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'q'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xT
+item: 1; pos: 13; ch: 'r'
+CURRENT FLAG: CHTB{Th3_3xTr
+---> item: 1
+Current Flag: CHTB{Th3_3xTr
+item: 1; pos: 14; ch: ' '
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr
+item: 1; pos: 14; ch: '!'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr
+item: 1; pos: 14; ch: '"'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr
+item: 1; pos: 14; ch: '#'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr
+item: 1; pos: 14; ch: '$'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr
+item: 1; pos: 14; ch: '%'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr
+item: 1; pos: 14; ch: '&'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr
+item: 1; pos: 14; ch: '('
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr
+item: 1; pos: 14; ch: ')'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr
+item: 1; pos: 14; ch: '*'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr
+item: 1; pos: 14; ch: '+'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr
+item: 1; pos: 14; ch: ','
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr
+item: 1; pos: 14; ch: '-'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr
+item: 1; pos: 14; ch: '.'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr
+item: 1; pos: 14; ch: '/'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr
+item: 1; pos: 14; ch: '0'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr
+item: 1; pos: 14; ch: '1'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr
+item: 1; pos: 14; ch: '2'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr
+item: 1; pos: 14; ch: '3'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr
+item: 1; pos: 14; ch: '4'
+CURRENT FLAG: CHTB{Th3_3xTr4
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: ' '
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '!'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '"'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '#'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '$'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '%'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '&'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '('
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: ')'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '*'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '+'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: ','
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '-'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '.'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '/'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '0'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '1'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '2'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '3'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '4'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '5'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '6'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '7'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '8'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '9'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: ':'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: ';'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '<'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '='
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '>'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '?'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '@'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'A'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'B'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'C'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'D'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'E'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'F'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'G'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'H'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'I'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'J'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'K'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'L'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'M'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'N'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'O'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'P'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'Q'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'R'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'S'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'T'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'U'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'V'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'W'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'X'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'Y'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: 'Z'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '['
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '\'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: ']'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '^'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4
+item: 1; pos: 15; ch: '_'
+CURRENT FLAG: CHTB{Th3_3xTr4_
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: ' '
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '!'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '"'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '#'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '$'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '%'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '&'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '('
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: ')'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '*'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '+'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: ','
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '-'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '.'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '/'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '0'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '1'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '2'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '3'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '4'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '5'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '6'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '7'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '8'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '9'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: ':'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: ';'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '<'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '='
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '>'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '?'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '@'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'A'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'B'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'C'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'D'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'E'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'F'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'G'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'H'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'I'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'J'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'K'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'L'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'M'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'N'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'O'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'P'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'Q'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'R'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'S'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'T'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'U'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'V'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'W'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'X'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'Y'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'Z'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '['
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '\'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: ']'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '^'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '_'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: '`'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'a'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'b'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'c'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'd'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'e'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'f'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'g'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'h'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'i'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'j'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'k'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_
+item: 1; pos: 16; ch: 'l'
+CURRENT FLAG: CHTB{Th3_3xTr4_l
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l
+item: 1; pos: 17; ch: ' '
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l
+item: 1; pos: 17; ch: '!'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l
+item: 1; pos: 17; ch: '"'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l
+item: 1; pos: 17; ch: '#'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l
+item: 1; pos: 17; ch: '$'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l
+item: 1; pos: 17; ch: '%'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l
+item: 1; pos: 17; ch: '&'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l
+item: 1; pos: 17; ch: '('
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l
+item: 1; pos: 17; ch: ')'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l
+item: 1; pos: 17; ch: '*'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l
+item: 1; pos: 17; ch: '+'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l
+item: 1; pos: 17; ch: ','
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l
+item: 1; pos: 17; ch: '-'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l
+item: 1; pos: 17; ch: '.'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l
+item: 1; pos: 17; ch: '/'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l
+item: 1; pos: 17; ch: '0'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l
+item: 1; pos: 17; ch: '1'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l
+item: 1; pos: 17; ch: '2'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l
+item: 1; pos: 17; ch: '3'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: ' '
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '!'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '"'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '#'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '$'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '%'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '&'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '('
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: ')'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '*'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '+'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: ','
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '-'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '.'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '/'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '0'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '1'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '2'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '3'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '4'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '5'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '6'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '7'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '8'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '9'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: ':'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: ';'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '<'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '='
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '>'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '?'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '@'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'A'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'B'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'C'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'D'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'E'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'F'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'G'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'H'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'I'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'J'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'K'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'L'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'M'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'N'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'O'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'P'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'Q'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'R'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'S'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'T'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'U'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'V'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'W'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'X'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'Y'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'Z'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '['
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '\'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: ']'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '^'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '_'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: '`'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'a'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'b'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'c'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'd'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'e'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'f'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'g'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'h'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'i'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'j'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'k'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'l'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'm'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'n'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'o'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'p'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'q'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'r'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 's'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 't'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'u'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3
+item: 1; pos: 18; ch: 'v'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: 1; pos: 19; ch: ' '
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: 1; pos: 19; ch: '!'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: 1; pos: 19; ch: '"'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: 1; pos: 19; ch: '#'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: 1; pos: 19; ch: '$'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: 1; pos: 19; ch: '%'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: 1; pos: 19; ch: '&'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: 1; pos: 19; ch: '('
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: 1; pos: 19; ch: ')'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: 1; pos: 19; ch: '*'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: 1; pos: 19; ch: '+'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: 1; pos: 19; ch: ','
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: 1; pos: 19; ch: '-'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: 1; pos: 19; ch: '.'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: 1; pos: 19; ch: '/'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: 1; pos: 19; ch: '0'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: 1; pos: 19; ch: '1'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: 1; pos: 19; ch: '2'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v
+item: 1; pos: 19; ch: '3'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: ' '
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '!'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '"'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '#'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '$'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '%'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '&'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '('
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: ')'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '*'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '+'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: ','
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '-'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '.'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '/'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '0'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '1'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '2'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '3'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '4'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '5'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '6'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '7'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '8'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '9'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: ':'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: ';'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '<'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '='
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '>'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '?'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '@'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'A'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'B'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'C'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'D'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'E'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'F'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'G'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'H'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'I'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'J'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'K'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'L'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'M'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'N'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'O'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'P'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'Q'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'R'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'S'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'T'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'U'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'V'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'W'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'X'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'Y'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'Z'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '['
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '\'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: ']'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '^'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '_'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: '`'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'a'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'b'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'c'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'd'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'e'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'f'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'g'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'h'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'i'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'j'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'k'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3
+item: 1; pos: 20; ch: 'l'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3l
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: ' '
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '!'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '"'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '#'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '$'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '%'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '&'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '('
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: ')'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '*'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '+'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: ','
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '-'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '.'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '/'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '0'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '1'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '2'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '3'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '4'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '5'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '6'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '7'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '8'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '9'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: ':'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: ';'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '<'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '='
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '>'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '?'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '@'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'A'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'B'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'C'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'D'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'E'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'F'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'G'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'H'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'I'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'J'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'K'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'L'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'M'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'N'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'O'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'P'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'Q'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'R'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'S'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'T'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'U'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'V'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'W'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'X'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'Y'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: 'Z'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '['
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '\'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: ']'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '^'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l
+item: 1; pos: 21; ch: '_'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3l_
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ' '
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '!'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '"'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '#'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '$'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '%'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '&'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '('
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ')'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '*'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '+'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ','
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '-'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '.'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '/'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '0'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '1'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '2'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '3'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '4'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '5'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '6'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '7'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '8'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '9'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ':'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ';'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '<'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '='
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '>'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '?'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '@'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'A'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'B'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'C'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'D'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'E'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'F'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'G'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'H'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'I'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'J'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'K'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'L'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'M'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'N'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'O'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'P'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Q'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'R'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'S'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'T'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'U'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'V'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'W'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'X'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Y'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Z'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '['
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '\'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ']'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '^'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '_'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '`'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'a'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'b'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'c'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'd'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'e'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'f'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'g'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'h'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'i'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'j'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'k'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'l'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'm'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'n'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'o'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'p'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'q'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'r'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 's'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 't'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'u'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'v'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'w'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'x'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'y'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'z'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '{'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '|'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '}'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '~'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ''
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: ' '
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '¡'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '¢'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '£'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '¤'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '¥'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '¦'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '§'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '¨'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '©'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'ª'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '«'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '¬'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '­'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '®'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '¯'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '°'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '±'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '²'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '³'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '´'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'µ'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '¶'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '·'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '¸'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '¹'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'º'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '»'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '¼'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '½'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '¾'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '¿'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'À'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Á'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Â'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Ã'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Ä'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Å'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Æ'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Ç'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'È'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'É'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Ê'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Ë'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Ì'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Í'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Î'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Ï'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Ð'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Ñ'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Ò'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Ó'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Ô'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Õ'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Ö'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '×'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Ø'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Ù'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Ú'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Û'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Ü'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Ý'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'Þ'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'ß'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'à'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'á'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'â'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'ã'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'ä'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'å'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'æ'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'ç'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'è'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'é'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'ê'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'ë'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'ì'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'í'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'î'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'ï'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'ð'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'ñ'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'ò'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'ó'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'ô'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'õ'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'ö'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: '÷'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'ø'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'ù'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'ú'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'û'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'ü'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'ý'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'þ'
+.
+---> item: 1
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 1; pos: 22; ch: 'ÿ'
+.
+Search Finished for item 1!
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 2; pos: 1; ch: ' '
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 2; pos: 1; ch: '!'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 2; pos: 1; ch: '"'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 2; pos: 1; ch: '#'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 2; pos: 1; ch: '$'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 2; pos: 1; ch: '%'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 2; pos: 1; ch: '&'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 2; pos: 1; ch: '('
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 2; pos: 1; ch: ')'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 2; pos: 1; ch: '*'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 2; pos: 1; ch: '+'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 2; pos: 1; ch: ','
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 2; pos: 1; ch: '-'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 2; pos: 1; ch: '.'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 2; pos: 1; ch: '/'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 2; pos: 1; ch: '0'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 2; pos: 1; ch: '1'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 2; pos: 1; ch: '2'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 2; pos: 1; ch: '3'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_
+item: 2; pos: 1; ch: '4'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3l_4
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: ' '
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '!'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '"'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '#'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '$'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '%'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '&'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '('
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: ')'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '*'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '+'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: ','
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '-'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '.'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '/'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '0'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '1'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '2'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '3'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '4'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '5'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '6'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '7'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '8'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '9'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: ':'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: ';'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '<'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '='
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '>'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '?'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: '@'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: 'A'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: 'B'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4
+item: 2; pos: 2; ch: 'C'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3l_4C
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: ' '
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '!'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '"'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '#'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '$'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '%'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '&'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '('
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: ')'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '*'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '+'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: ','
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '-'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '.'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '/'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '0'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '1'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '2'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '3'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '4'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '5'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '6'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '7'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '8'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '9'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: ':'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: ';'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '<'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '='
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '>'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '?'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '@'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'A'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'B'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'C'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'D'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'E'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'F'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'G'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'H'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'I'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'J'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'K'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'L'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'M'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'N'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'O'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'P'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'Q'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'R'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'S'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'T'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'U'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'V'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'W'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'X'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'Y'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'Z'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '['
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '\'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: ']'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '^'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '_'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: '`'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'a'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'b'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4C
+item: 2; pos: 3; ch: 'c'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3l_4Cc
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: 2; pos: 4; ch: ' '
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: 2; pos: 4; ch: '!'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: 2; pos: 4; ch: '"'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: 2; pos: 4; ch: '#'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: 2; pos: 4; ch: '$'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: 2; pos: 4; ch: '%'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: 2; pos: 4; ch: '&'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: 2; pos: 4; ch: '('
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: 2; pos: 4; ch: ')'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: 2; pos: 4; ch: '*'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: 2; pos: 4; ch: '+'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: 2; pos: 4; ch: ','
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: 2; pos: 4; ch: '-'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: 2; pos: 4; ch: '.'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: 2; pos: 4; ch: '/'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: 2; pos: 4; ch: '0'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: 2; pos: 4; ch: '1'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: 2; pos: 4; ch: '2'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc
+item: 2; pos: 4; ch: '3'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3l_4Cc3
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: ' '
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '!'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '"'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '#'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '$'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '%'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '&'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '('
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: ')'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '*'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '+'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: ','
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '-'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '.'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '/'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '0'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '1'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '2'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '3'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '4'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '5'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '6'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '7'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '8'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '9'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: ':'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: ';'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '<'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '='
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '>'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '?'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '@'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'A'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'B'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'C'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'D'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'E'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'F'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'G'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'H'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'I'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'J'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'K'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'L'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'M'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'N'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'O'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'P'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'Q'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'R'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'S'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'T'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'U'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'V'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'W'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'X'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'Y'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'Z'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '['
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '\'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: ']'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '^'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '_'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: '`'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'a'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'b'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'c'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'd'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'e'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'f'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'g'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'h'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'i'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'j'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'k'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'l'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'm'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'n'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'o'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'p'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'q'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 'r'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3
+item: 2; pos: 5; ch: 's'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3l_4Cc3s
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s
+item: 2; pos: 6; ch: ' '
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s
+item: 2; pos: 6; ch: '!'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s
+item: 2; pos: 6; ch: '"'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s
+item: 2; pos: 6; ch: '#'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s
+item: 2; pos: 6; ch: '$'
+CURRENT FLAG: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: ' '
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '!'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '"'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '#'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '$'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '%'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '&'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '('
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: ')'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '*'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '+'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: ','
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '-'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '.'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '/'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '0'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '1'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '2'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '3'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '4'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '5'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '6'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '7'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '8'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '9'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: ':'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: ';'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '<'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '='
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '>'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '?'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '@'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'A'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'B'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'C'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'D'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'E'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'F'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'G'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'H'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'I'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'J'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'K'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'L'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'M'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'N'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'O'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'P'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'Q'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'R'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'S'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'T'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'U'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'V'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'W'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'X'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'Y'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: 'Z'
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '['
+.
+---> item: 2
+Current Flag: CHTB{Th3_3xTr4_l3v3l_4Cc3s$
+item: 2; pos: 7; ch: '\'

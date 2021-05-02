@@ -31,13 +31,21 @@
             document.getElementById("resultado").innerText = "(Aguardando nova busca)";
             event.preventDefault();
         }
+
+        function cleanText() {
+            form = document.getElementById("searchForm");
+            form.fname.value = "John Doe";
+
+            event.preventDefault();
+        }
     </script>
     <body>
         <form id="searchForm" action="">
             <label for="fname">Busca</label><br>
             <input type="text" id="fname" value="John Doe" onchange="clean();" style="width: 800px; font-size: medium; font-family: 'Courier New', Courier, monospace;"><br><br>
             <input id="submitButton" value="Efetuar Busca" type="submit" onclick="callSearch();">
-            <button onclick="clean();">Limpar</button>
+            <button onclick="clean();">Limpar busca</button>
+            <!-- <button onclick="cleanText();">Limpar texto</button> -->
         </form>
         <p id="resultado">(Aguardando nova busca)</p>
     </body>

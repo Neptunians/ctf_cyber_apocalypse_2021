@@ -35,7 +35,7 @@
     <body>
         <form id="searchForm" action="">
             <label for="fname">Busca</label><br>
-            <input type="text" id="fname" value="John Doe" style="width: 500px"><br><br>
+            <input type="text" id="fname" value="John Doe" onchange="clean();" style="width: 800px; font-size: medium; font-family: 'Courier New', Courier, monospace;"><br><br>
             <input id="submitButton" value="Efetuar Busca" type="submit" onclick="callSearch();">
             <button onclick="clean();">Limpar</button>
         </form>

